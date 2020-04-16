@@ -1,1 +1,5 @@
-Attention Detector.*
+#VS files
+Attention Detector.vcxproj
+Attention Detector.vcxproj.filters
+Attention Detector.vcxproj.user
+/x64
